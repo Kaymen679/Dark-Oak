@@ -1,0 +1,14 @@
+{
+    "icon": "",
+    "name": "Kaymen's Dark-Oak",
+    "authors": [
+      "Kaymen"
+    ],
+    "desc": "Midevil DarkOak",
+    "mods": [
+    "structurize",
+    "minecolonies"
+    ],
+    "version": "1",
+    "pack-format": "1"
+  }
