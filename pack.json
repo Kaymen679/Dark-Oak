@@ -1,10 +1,10 @@
 {
     "icon": "darkoak.png",
-    "name": "Kaymen's Dark-Oak",
+    "name": "Kaymen's Dark Oak",
     "authors": [
       "Kaymen"
     ],
-    "desc": "Midevil DarkOak",
+    "desc": "Midevil Dark Oak",
     "mods": [
     "structurize",
     "minecolonies"
